@@ -13,8 +13,8 @@ SQLite
 
 #Запустить проект можно следующим образом:
 
-Клонируйте репозиторий и перейдите в него в командной строке:
-git clone https://github.com/Ma1abaR/api_final_yatube.git
+[Клонируйте] репозиторий и перейдите в него в командной строке:
+git clone (https://github.com/Ma1abaR/api_final_yatube.git)
 cd api_final_yatube
 Cоздайте и активируйте виртуальное окружение:
 python3 -m venv venv
